@@ -24,5 +24,5 @@ void setup() {
 
 void loop() {
 	toggleLED();
-	delay(5000);
+	delaywfi(5000);
 }
